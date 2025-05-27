@@ -40,12 +40,14 @@ const MobileMenu = ({ isToggled, toggleClick }) => {
                     <div className="mobile-header-top">
                         <div className="mobile-header-logo">
                             <Link href="/">
-                                <a>
-                                    <img
-                                        src="/assets/imgs/theme/logo.svg"
-                                        alt="logo"
-                                    />
-                                </a>
+                               <a>
+      <img
+        src="/assets/imgs/shop/logo.png"
+        alt="logo"
+        className="img-fluid"
+        style={{ maxWidth: 'auto', height: '90px' }}
+      />
+    </a>
                             </Link>
                         </div>
                         <div className="mobile-menu-close close-style-wrap close-style-position-inherit">

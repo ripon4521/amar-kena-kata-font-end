@@ -60,7 +60,7 @@ const WishlistModal = ({
                                             />
                                         </td>
 
-                                        <td>${product.price}</td>
+                                        <td>{product.price} tk</td>
                                         <td style={{ width: "200px" }}>
                                             <span
                                                 onClick={(e) => handleCart(product)}

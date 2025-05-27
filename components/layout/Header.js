@@ -151,13 +151,20 @@ const Header = ({
                 <div className="header-middle header-middle-ptb-1 d-none d-lg-block">
                     <div className="container">
                         <div className="header-wrap">
-                            <div className="logo logo-width-1">
-                                <Link href="/">
-                                    <a>
-                                        <img src="/assets/imgs/theme/logo.svg" alt="logo" />
-                                    </a>
-                                </Link>
-                            </div>
+                     <div className="logo logo-width-1">
+  <Link href="/">
+    <a>
+      <img
+        src="/assets/imgs/shop/logo.png"
+        alt="logo"
+        className="img-fluid"
+        style={{ maxWidth: '40px', height: '90px' }}
+      />
+    </a>
+  </Link>
+</div>
+
+
                             <div className="header-right">
                                 <div className="search-style-2">
                                     <Search />
@@ -298,8 +305,13 @@ const Header = ({
                             <div className="logo logo-width-1 d-block d-lg-none">
                                 <Link href="/">
                                     <a>
-                                        <img src="/assets/imgs/theme/logo.svg" alt="logo" />
-                                    </a>
+      <img
+        src="/assets/imgs/shop/logo.png"
+        alt="logo"
+        className="img-fluid"
+        style={{ maxWidth: '30px', height: '60px' }}
+      />
+    </a>
                                 </Link>
                             </div>
                             <div className="header-nav d-none d-lg-flex">

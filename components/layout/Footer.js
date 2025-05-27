@@ -169,12 +169,14 @@ const Footer = () => {
                                     data-wow-delay="0"
                                 >
                                     <div className="logo  mb-30">
-                                        <Link href="/"><a className="mb-15">
-                                            <img
-                                                src="/assets/imgs/theme/logo.svg"
-                                                alt="logo"
-                                            />
-                                        </a>
+                                        <Link href="/"><a>
+      <img
+        src="/assets/imgs/shop/logo.png"
+        alt="logo"
+        className="img-fluid"
+        style={{ maxWidth: '', height: '90px' }}
+      />
+    </a>
                                         </Link>
                                         <p className="font-lg text-heading">
                                             Awesome grocery store website
