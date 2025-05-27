@@ -45,7 +45,7 @@ const MobileMenu = ({ isToggled, toggleClick }) => {
         src="/assets/imgs/shop/logo.png"
         alt="logo"
         className="img-fluid"
-        style={{ maxWidth: 'auto', height: '90px' }}
+        style={{ maxWidth: '', height: '90px' }}
       />
     </a>
                             </Link>

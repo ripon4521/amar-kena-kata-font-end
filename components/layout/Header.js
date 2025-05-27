@@ -309,7 +309,7 @@ const Header = ({
         src="/assets/imgs/shop/logo.png"
         alt="logo"
         className="img-fluid"
-        style={{ maxWidth: '30px', height: '60px' }}
+        style={{ maxWidth: '40px', height: '70px' }}
       />
     </a>
                                 </Link>
