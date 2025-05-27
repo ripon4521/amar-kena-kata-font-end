@@ -1,37 +1,32 @@
 [
     {
-        "title": "Seeds of Change Organic Quinoa, Brown",
-        "slug": "seeds-of-change-organic-quinoe",
+        "title": "Egg Loose(per pis)",
+        "slug": "egg-loss",
         "moreLove": true,
         "id": "1",
-        "price": 238.85,
-        "oldPrice": 245.8,
+        "price": 10,
+        "oldPrice": 12,
         "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
         "images": [
             {
-                "img": "/assets/imgs/shop/product-1-1.jpg"
+                "img": "/assets/imgs/shop/egg.jpg"
             },
             {
-                "img": "/assets/imgs/shop/product-1-2.jpg"
+                "img": "/assets/imgs/shop/egg.jpg"
             }
         ],
         "totalSell": 27,
         "gallery": [
             {
-                "thumb": "/assets/imgs/shop/product-1-1.jpg"
-            },
-            {
-                "thumb": "/assets/imgs/shop/product-1-1.jpg"
-            },
-            {
-                "thumb": "/assets/imgs/shop/product-1-1.jpg"
+                "thumb": "/assets/imgs/shop/egg.jpg"
             }
+          
         ],
         "condition": "new",
-        "vendor": "nestFood",
+        "vendor": "amr kena kata",
         "color": "blue",
-        "brand": "armani",
-        "category": "clothing",
+        "brand": "paragon",
+        "category": "milk",
         "featured": false,
         "trending": true,
         "discount": {
@@ -52,43 +47,45 @@
         "weight": 150,
         "tags": "broccoli",
         "sizes": "s",
-        "stock": 0,
+        "stock": 120,
         "review": 10,
         "rating": 3,
         "ratingScore": 90,
         "created": ""
     },
     {
-        "title": "All Natural Italian-Style Chicken Meatballs",
-        "slug": "all-natural-italian-style-chicken-meatballs",
+        "title": "Piyaj Deshi Loose (per kg)",
+        "slug": "piyaj-deshi-loose",
         "moreLove": true,
         "id": "2",
-        "price": 78,
+        "price": 57,
+        "oldPrice": 58,
         "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
         "images": [
             {
-                "img": "/assets/imgs/shop/product-2-1.jpg"
+                "img": "/assets/imgs/shop/onion.jpg"
             },
             {
-                "img": "/assets/imgs/shop/product-2-2.jpg"
+                "img": "/assets/imgs/shop/onion.jpg"
             }
         ],
         "totalSell": 27,
         "gallery": [
             {
-                "thumb": "/assets/imgs/shop/product-2-1.jpg"
+                "thumb": "/assets/imgs/shop/onion.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-2-2.jpg"
+                "thumb": "/assets/imgs/shop/onion.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-2-1.jpg"
+                "thumb": "/assets/imgs/shop/onion.jpg"
             }
+          
         ],
         "condition": "refurbished",
         "vendor": "stouffer",
         "color": "blue",
-        "brand": "armani",
+        "brand": "desi",
         "category": "jeans",
         "featured": true,
         "trending": false,
@@ -116,36 +113,37 @@
         "created": "2021-02-03T06:48:07"
     },
     {
-        "title": "Angie’s Boomchickapop Sweet & Salty",
-        "slug": "angie’s-boomchickapop-sweet-&-salty",
+        "title": "Nazirshail Rice Loose (per kg.)",
+        "slug": "nazirshail-rice-loose",
         "moreLove": true,
         "id": "3",
-        "price": 35,
+        "price": 60,
+        "oldPrice": 65,
         "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
         "images": [
             {
-                "img": "/assets/imgs/shop/product-3-1.jpg"
+                "img": "/assets/imgs/shop/chal.jpg"
             },
             {
-                "img": "/assets/imgs/shop/product-3-2.jpg"
+                "img": "/assets/imgs/shop/chal.jpg"
             }
         ],
         "totalSell": 27,
         "gallery": [
             {
-                "thumb": "/assets/imgs/shop/product-3-1.jpg"
+                "thumb": "/assets/imgs/shop/chal.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-3-2.jpg"
+                "thumb": "/assets/imgs/shop/chal.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-3-1.jpg"
+                "thumb": "/assets/imgs/shop/chal.jpg"
             }
         ],
         "condition": "new",
         "vendor": "starKist",
         "color": "blue",
-        "brand": "armani",
+        "brand": "chasi",
         "category": "accessories",
         "featured": true,
         "trending": true,
@@ -173,36 +171,37 @@
         "created": ""
     },
     {
-        "title": "Foster Farms Takeout Crispy Classic",
-        "slug": "foster-farms-takeout-crispy-classic",
+        "title": "Khashir Mangsho (per kg.)",
+        "slug": "khasir-mangso",
         "moreLove": true,
         "id": "4",
-        "price": 55,
+        "price": 1310,
+        "oldPrice": 1320,
         "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
         "images": [
             {
-                "img": "/assets/imgs/shop/product-4-1.jpg"
+                "img": "/assets/imgs/shop/khasir manso.jpg"
             },
             {
-                "img": "/assets/imgs/shop/product-4-2.jpg"
+                "img": "/assets/imgs/shop/khasir manso.jpg"
             }
         ],
         "totalSell": 27,
         "gallery": [
             {
-                "thumb": "/assets/imgs/shop/product-4-1.jpg"
+                "thumb": "/assets/imgs/shop/khasir manso.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-4-2.jpg"
+                "thumb": "/assets/imgs/shop/khasir manso.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-4-1.jpg"
+                "thumb": "/assets/imgs/shop/khasir manso.jpg"
             }
         ],
         "condition": "used",
-        "vendor": "NestFood",
+        "vendor": "amr kena kata",
         "color": "blue",
-        "brand": "armani",
+        "brand": "red met",
         "category": "trousers",
         "featured": true,
         "trending": false,
@@ -230,36 +229,38 @@
         "created": ""
     },
     {
-        "title": "Green Diamond Almonds Lightly From Oska",
-        "slug": "green-diamond-almonds-lightly-from-oska-japan",
+        "title": "Rui Deshi (per kg.)",
+        "slug": "rui-deshi",
         "moreLove": true,
         "id": "5",
-        "price": 110,
+        "price": 400,
+        "oldPrice": 420,
+
         "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
         "images": [
             {
-                "img": "/assets/imgs/shop/product-5-1.jpg"
+                "img": "/assets/imgs/shop/rui.png"
             },
             {
-                "img": "/assets/imgs/shop/product-5-2.jpg"
+                "img": "/assets/imgs/shop/rui.png"
             }
         ],
         "totalSell": 27,
         "gallery": [
             {
-                "thumb": "/assets/imgs/shop/product-5-1.jpg"
+                "thumb": "/assets/imgs/shop/rui.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-5-2.jpg"
+                "thumb": "/assets/imgs/shop/rui.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-5-1.jpg"
+                "thumb": "/assets/imgs/shop/rui.jpg"
             }
         ],
         "condition": "refurbished",
-        "vendor": "NestFood",
+        "vendor": "amr kena kata",
         "color": "red",
-        "brand": "NestFood",
+        "brand": "amr kena kata ",
         "category": "shoe",
         "featured": true,
         "trending": false,
@@ -287,36 +288,36 @@
         "created": ""
     },
     {
-        "title": "Chobani Complete Vanilla Greek Yogurt",
-        "slug": "chobani-complete-vanilla-greek-yogurt",
+        "title": "Chini Chompa Banana (per pis.)",
+        "slug": "chini-chompa",
         "moreLove": true,
         "id": "6",
-        "price": 150,
+        "price": 6.25,
         "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
         "images": [
             {
-                "img": "/assets/imgs/shop/product-6-1.jpg"
+                "img": "/assets/imgs/shop/banana.png"
             },
             {
-                "img": "/assets/imgs/shop/product-6-2.jpg"
+                "img": "/assets/imgs/shop/banana.png"
             }
         ],
         "totalSell": 27,
         "gallery": [
             {
-                "thumb": "/assets/imgs/shop/product-6-2.jpg"
+                "thumb": "/assets/imgs/shop/banana.jpeg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-6-1.jpg"
+                "thumb": "/assets/imgs/shop/banana.jpeg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-6-2.jpg"
+                "thumb": "/assets/imgs/shop/banana.jpeg"
             }
         ],
         "condition": "refurbished",
-        "vendor": "NestFood",
+        "vendor": "amr kena kata",
         "color": "green",
-        "brand": "helix",
+        "brand": "amr kena kata ",
         "category": "jeans",
         "featured": true,
         "trending": false,
@@ -344,36 +345,36 @@
         "created": ""
     },
     {
-        "title": "Canada Dry Ginger Ale – 2 L Bottle",
-        "slug": "canada-dry-ginger-ale-–-2-l-bottle",
+        "title": "Capsicum Green (per unit.)",
+        "slug": "capsicum",
         "moreLove": true,
         "id": "7",
-        "price": 98,
+        "price": 320,
         "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
         "images": [
             {
-                "img": "/assets/imgs/shop/product-7-1.jpg"
+                "img": "/assets/imgs/shop/capsicum.jpg"
             },
             {
-                "img": "/assets/imgs/shop/product-7-2.jpg"
+                "img": "/assets/imgs/shop/capsicum.jpg"
             }
         ],
         "totalSell": 27,
         "gallery": [
             {
-                "thumb": "/assets/imgs/shop/product-7-1.jpg"
+                "thumb": "/assets/imgs/shop/capsicum.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-7-2.jpg"
+                "thumb": "/assets/imgs/shop/capsicum.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-7-1.jpg"
+                "thumb": "/assets/imgs/shop/capsicum.jpg"
             }
         ],
         "condition": "new",
-        "vendor": "stouffer",
+        "vendor": "amr kena kata",
         "color": "blue",
-        "brand": "armani",
+        "brand": "amr kena kata ",
         "category": "trousers",
         "featured": false,
         "trending": true,
@@ -401,36 +402,36 @@
         "created": ""
     },
     {
-        "title": "Encore Seafoods Stuffed Alaskan",
-        "slug": "encore-seafoods-stuffed-alaskan",
+        "title": "Lal Shak ",
+        "slug": "lal-shak",
         "moreLove": true,
         "id": "8",
-        "price": 24,
+        "price": 15,
         "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
         "images": [
             {
-                "img": "/assets/imgs/shop/product-8-1.jpg"
+                "img": "/assets/imgs/shop/lal shak.jpg"
             },
             {
-                "img": "/assets/imgs/shop/product-8-2.jpg"
+                "img": "/assets/imgs/shop/lal shak.jpg"
             }
         ],
         "totalSell": 27,
         "gallery": [
             {
-                "thumb": "/assets/imgs/shop/product-8-1.jpg"
+                "thumb": "/assets/imgs/shop/lal shak.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-8-2.jpg"
+                "thumb": "/assets/imgs/shop/lal shak.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-8-1.jpg"
+                "thumb": "/assets/imgs/shop/lal shak.jpg"
             }
         ],
         "condition": "refurbished",
-        "vendor": "NestFood",
+        "vendor": "amr kena kata",
         "color": "blue",
-        "brand": "armani",
+        "brand": "amr kena kata ",
         "category": "shoe",
         "featured": true,
         "trending": true,
@@ -458,36 +459,36 @@
         "created": ""
     },
     {
-        "title": "Gorton’s Beer Battered Fish Fillets",
-        "slug": "gorton’s-beer-battered-fish-fillets",
+        "title": "Kagzi (Lemon)",
+        "slug": "lemon",
         "moreLove": true,
         "id": "9",
-        "price": 146,
+        "price": 6,
         "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
         "images": [
             {
-                "img": "/assets/imgs/shop/product-9-1.jpg"
+                "img": "/assets/imgs/shop/lmon.jpg"
             },
             {
-                "img": "/assets/imgs/shop/product-9-2.jpg"
+                "img": "/assets/imgs/shop/lmon.jpg"
             }
         ],
         "totalSell": 27,
         "gallery": [
             {
-                "thumb": "/assets/imgs/shop/product-9-1.jpg"
+                "thumb": "/assets/imgs/shop/lmon.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-9-2.jpg"
+                "thumb": "/assets/imgs/shop/lmon.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-9-1.jpg"
+                "thumb": "/assets/imgs/shop/lmon.jpg"
             }
         ],
         "condition": "new",
-        "vendor": "stouffer",
+        "vendor": "amr kena kata",
         "color": "blue",
-        "brand": "armani",
+        "brand": "amr kena kata ",
         "category": "accessories",
         "featured": false,
         "trending": true,
@@ -515,36 +516,37 @@
         "created": ""
     },
     {
-        "title": "Haagen-Dazs Caramel Cone Ice Cream",
-        "slug": "haagen-dazs-caramel-cone-ice-cream",
+        "title": "Roast Chicken",
+        "slug": "roast-chicken",
         "moreLove": true,
         "id": "10",
-        "price": 67,
+        "price": 320,
+        "oldPrice": 350,
         "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
         "images": [
             {
-                "img": "/assets/imgs/shop/product-10-1.jpg"
+                "img": "/assets/imgs/shop/chiken.png"
             },
             {
-                "img": "/assets/imgs/shop/product-10-2.jpg"
+                "img": "/assets/imgs/shop/chiken.png"
             }
         ],
         "totalSell": 27,
         "gallery": [
             {
-                "thumb": "/assets/imgs/shop/product-10-1.jpg"
+                "thumb": "/assets/imgs/shop/chiken.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-10-2.jpg"
+                "thumb": "/assets/imgs/shop/chiken.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-10-1.jpg"
+                "thumb": "/assets/imgs/shop/chiken.jpg"
             }
         ],
         "condition": "used",
-        "vendor": "Burbe",
+        "vendor": "amr kena kata",
         "color": "blue",
-        "brand": "armani",
+        "brand": "amr kena kata ",
         "category": "jacket",
         "featured": true,
         "trending": false,
@@ -572,30 +574,31 @@
         "created": ""
     },
     {
-        "title": "Hamitoki - Seeds of Change Organic Quinoe",
+        "title": "Lemon Bright 500ml",
         "slug": "seeds-of-change-organic-quinoe",
         "moreLove": true,
         "id": "11",
-        "price": 116,
+        "price": 150,
+        "oldPrice": 155,
         "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
         "images": [
             {
-                "img": "/assets/imgs/shop/product-11-1.jpg"
+                "img": "/assets/imgs/shop/bright.jpg"
             },
             {
-                "img": "/assets/imgs/shop/product-11-2.jpg"
+                "img": "/assets/imgs/shop/bright.jpg"
             }
         ],
         "totalSell": 27,
         "gallery": [
             {
-                "thumb": "/assets/imgs/shop/product-11-1.jpg"
+                "thumb": "/assets/imgs/shop/bright.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-11-2.jpg"
+                "thumb": "/assets/imgs/shop/bright.jpg"
             },
             {
-                "thumb": "/assets/imgs/shop/product-11-1.jpg"
+                "thumb": "/assets/imgs/shop/bright.jpg"
             }
         ],
         "condition": "refurbished",

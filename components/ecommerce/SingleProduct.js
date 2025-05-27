@@ -122,14 +122,14 @@ const SingleProduct = ({
 
                     <div>
                         <span className="font-small text-muted">
-                            By <Link href="/vendor/1"><a>NestFood</a></Link>
+                            By <Link href="/vendor/1"><a>Amar Kena Kata</a></Link>
                         </span>
                     </div>
 
                     <div className="product-card-bottom">
                         <div className="product-price">
-                            <span>${product.price} </span>
-                            <span className="old-price">{product.oldPrice && `$ ${product.oldPrice}`}</span>
+                            <span>{product.price} tk.</span>
+                            <span className="old-price">{product.oldPrice && ` ${product.oldPrice} tk.`}</span>
                         </div>
                         <div className="add-cart">
                             <a

@@ -80,7 +80,7 @@ const Header = ({
                                 <div className="header-info header-info-right">
                                     <ul>
                                         <li>
-                                            Need help? Call Us: <strong className="text-brand"> + 1800 900</strong>
+                                            Need help? Call Us: <strong className="text-brand">01337023322</strong>
                                         </li>
                                         <li>
                                             <Link href="/#">
@@ -119,13 +119,13 @@ const Header = ({
                                         </li>
                                         <li>
                                             <a className="language-dropdown-active" href="#">
-                                                USD <i className="fi-rs-angle-small-down"></i>
+                                                BDT <i className="fi-rs-angle-small-down"></i>
                                             </a>
                                             <ul className="language-dropdown">
                                                 <li>
                                                     <a href="#">
                                                         <img src="/assets/imgs/theme/flag-fr.png" alt="" />
-                                                        INR
+                                                        USD
                                                     </a>
                                                 </li>
                                                 <li>
@@ -727,7 +727,7 @@ const Header = ({
                                 <img src="/assets/imgs/theme/icons/icon-headphone.svg" alt="hotline" />
 
                                 <p>
-                                    1900 - 888<span>24/7 Support Center</span>
+                                    01337023322<span>24/7 Support Center</span>
                                 </p>
                             </div>
 

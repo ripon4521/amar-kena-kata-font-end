@@ -199,7 +199,7 @@ const Footer = () => {
                                                 alt=""
                                             />
                                             <strong>Call Us:</strong>
-                                            <span>(+91) - 540-025-124553</span>
+                                            <span>(+88) - 01337023322</span>
                                         </li>
                                         <li>
                                             <img
@@ -207,7 +207,7 @@ const Footer = () => {
                                                 alt=""
                                             />
                                             <strong>Email:</strong>
-                                            <span>sale@Nest.com</span>
+                                            <span>amarkenakatasupershop@gmail.com</span>
                                         </li>
                                         <li>
                                             <img
@@ -382,9 +382,8 @@ const Footer = () => {
                         </div>
                         <div className="col-xl-4 col-lg-6 col-md-6">
                             <p className="font-sm mb-0">
-                                &copy; 2021,{" "}
-                                <strong className="text-brand">Nest</strong> - HTML
-                                Ecommerce Template <br />
+                                &copy; 2025,{" "}
+                                <strong className="text-brand">Amar Kena Kata</strong>  Super Shop <br />
                                 All rights reserved
                             </p>
                         </div>
@@ -395,7 +394,7 @@ const Footer = () => {
                                     alt="hotline"
                                 />
                                 <p>
-                                    1900 - 6666<span>Working 8:00 - 22:00</span>
+                                   01337023322<span>Working 8:00 - 22:00</span>
                                 </p>
                             </div>
                             <div className="hotline d-lg-inline-flex">
@@ -404,7 +403,7 @@ const Footer = () => {
                                     alt="hotline"
                                 />
                                 <p>
-                                    1900 - 8888<span>24/7 Support Center</span>
+                                    01337023322<span>24/7 Support Center</span>
                                 </p>
                             </div>
                         </div>
