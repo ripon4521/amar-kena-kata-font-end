@@ -308,7 +308,7 @@ const Header = ({
       <img
         src="/assets/imgs/shop/logo.png"
         alt="logo"
-        className="img-fluid"
+        className=""
         style={{ maxWidth: '40px', height: '70px' }}
       />
     </a>
