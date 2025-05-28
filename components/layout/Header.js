@@ -309,7 +309,7 @@ const Header = ({
         src="/assets/imgs/shop/logo.png"
         alt="logo"
         className=""
-        style={{ maxWidth: '40px', height: '70px' }}
+        style={{ maxWidth: '40px', height: '70px', marginRight:"20px" }}
       />
     </a>
                                 </Link>
